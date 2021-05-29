@@ -71,7 +71,7 @@ namespace ByteBank.SistemaInterno
         {
             if (valor < Saldo || valor > Saldo)
             {
-                Console.WriteLine($"A transferência não foi possível realizar no valor de R${valor}!");
+                Console.WriteLine($"A transferência no valor de R${valor}! não foi possível ser realizada.");
             }
             else
             {

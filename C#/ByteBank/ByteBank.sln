@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank", "ByteBank\ByteBank.csproj", "{45050CC5-0788-42BF-B80C-4BE38E14CEB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.SistemaBanco.Core", "ByteBank.SistemaBanco.Core\ByteBank.SistemaBanco.Core.csproj", "{45050CC5-0788-42BF-B80C-4BE38E14CEB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

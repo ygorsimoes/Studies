@@ -1,6 +1,6 @@
 ﻿namespace ByteBank.SistemaInterno
 {
-    public class ContaPoupanca : Conta
+    public class ContaPoupanca : ContaCorrente
     {
         /// <summary>
         /// Construtor.
